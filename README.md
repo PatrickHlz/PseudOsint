@@ -52,7 +52,7 @@ API access, available data, and rate limits depend on Riot Games' current API po
 ## Usage
 
 ```bash
-python main.py --pseudo XelOosS --pseudo XeelOosS --riot-id "XelOosS#TAG" --sherlock -o report.md
+python main.py --pseudo John --pseudo John50 --riot-id "John#TAG" --sherlock -o report.md
 ```
 
 The `--riot-id` argument is optional if you do not need Riot-specific analysis. The `--sherlock` argument is also optional.
@@ -60,7 +60,7 @@ The `--riot-id` argument is optional if you do not need Riot-specific analysis. 
 Example without Riot-specific analysis:
 
 ```bash
-python main.py --pseudo XelOosS --pseudo XeelOosS --sherlock -o report.md
+python main.py --pseudo John --pseudo John50 --sherlock -o report.md
 ```
 
 ## Acknowledged Limitations
