@@ -130,4 +130,4 @@ The tool may produce inaccurate results, false positives, or misleading correlat
 
 The developers do not encourage illegal surveillance, doxxing, retaliation, or harassment. This notice is not legal advice and does not guarantee that any particular use of the software is lawful.
 
-**The goal is to document abuse and seek appropriate remedies—not to become the abuser.**
+**The goal is to document abuse and seek appropriate remedies, not to become the abuser.**
